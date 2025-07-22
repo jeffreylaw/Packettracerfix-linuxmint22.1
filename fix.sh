@@ -1,4 +1,4 @@
-# Linuxmint22.1(xia)
+# Linuxmint22.1(xia), Ubuntu 24.04 base
 # Fix for Packet Tracer installation libgl1-mesa-glx dependency is not satisfiable
 
 wget http://mirrors.kernel.org/ubuntu/pool/universe/m/mesa/libgl1-mesa-glx_23.0.4-0ubuntu1~22.04.1_amd64.deb
